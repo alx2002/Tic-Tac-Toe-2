@@ -1,0 +1,10 @@
+C:\Users\Alex\Downloads\ttt\bin\Debug\TicTacToe.exe.config
+C:\Users\Alex\Downloads\ttt\bin\Debug\TicTacToe.exe
+C:\Users\Alex\Downloads\ttt\bin\Debug\TicTacToe.pdb
+C:\Users\Alex\Downloads\ttt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Downloads\ttt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Downloads\ttt\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Alex\Downloads\ttt\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\ttt\obj\Debug\TicTacToe.csproj.CopyComplete
+C:\Users\Alex\Downloads\ttt\obj\Debug\TicTacToe.exe
+C:\Users\Alex\Downloads\ttt\obj\Debug\TicTacToe.pdb
